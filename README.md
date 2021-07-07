@@ -23,3 +23,9 @@ iOS:10.3.3
 SHSH Blobs:No
 Jailbroken:No
 Storage:16gb
+
+Device:iPhone 4
+iOS:5.0.1
+SHSH Blobs:No
+Jailbroken:Yes
+Storage:32gb
